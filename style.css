@@ -7,23 +7,12 @@
 body {
     background-color: rgb(0,0,0);
     text-align: center;
-    /* height: 200vh; */
 }
 
 #textito {
     color: rgb(174, 174, 174);
     font-family: "8bit";
-    font-size: 20px;
     white-space: pre-wrap;
-    
-    /* font-size: 12px;
-    margin: 10px 0 0 10px;
-    white-space: nowrap;
-    overflow: hidden;
-    width: 0; */
-    /* opacity: 1; */
-    /* animation: type 1s steps(60, end);
-    animation-fill-mode: forwards; */
 }
 
 @font-face {
@@ -31,8 +20,25 @@ body {
     src: url(FreePixel.ttf);
 }
 
-/* 
-@keyframes type{
-    from { opacity: 0; }
-    to { opacity: 1; }
-} */
+@media screen and (orientation: landscape) {
+    /******************************************************************/
+    /* Acostado */
+    /******************************************************************/
+    #textito {
+        margin: 0 10vh 0 10vh;
+        font-size: 1.2rem;
+    }
+}
+@media screen and (orientation: portrait) {
+    /******************************************************************/
+    /* Celu */
+    /******************************************************************/
+    #textito {
+        margin: 0 5vh 0 5vh;
+        font-size: 1.5rem;
+    }
+}
+
+:root {
+    font-size: calc(1.2vw + 1vh);
+}
