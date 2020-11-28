@@ -10,7 +10,7 @@ async function leerTxt() {
         const response = await fetch("textitou.txt");
         const texto = await response.text();
         for(let i in texto) {
-            setTimeout(() => textito.append(texto[i]), 50*i);
+            setTimeout(() => textito.append(texto[i]), 10*i);
         }
     } catch (error) {
         console.log(error);
