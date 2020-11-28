@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Fuego</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
 
-<head>
-    <meta charset="utf-8">
-    <title>Fuego</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
+    <body>
+        <video id="video" autoplay muted loop>
+            <!-- Poster tag porque firefox mobile NO hace autoplay muted -->
+            <source src="2.mp4" type="video/mp4" />
+            Su navegador no soporta video HTML5
+        </video>
 
-<body>
-    <video title="Click me..." id="video" autoplay muted loop>
-        <source src="2.mp4" type="video/mp4">
-        Eh loco bajate el firefox
-    </video>
-
-    <audio id="audio" loop>
-        <source src="fuego.wav" type="audio/wav">
-        LOCO BAJATE UN BROWSER NUEVO SEGUNDO AVISO
-    </audio>
-    <br>
-    <p id="textito"></p>
-    <script src="script.js"></script>
-
-</body>
-<!-- Thanks to https://github.com/royeden -->
+        <audio id="audio" loop>
+            <source type="audio/wav" />
+            Su navegador no soporta audio HTML5.
+        </audio>
+        <br />
+        <p id="textito"></p>
+        <script src="script.js"></script>
+    </body>
+    <!-- Thanks to https://github.com/royeden -->
 </html>
