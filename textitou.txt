@@ -1,0 +1,33 @@
+Se pierde una hectárea de bosque natural en el mundo cada 4 segundos...
+Se emiten mil toneladas de CO2 cada 1 segundo...
+Se producen cien mil botellas de plástico cada 6 segundos...
+Se consumen mil millones de litros de agua cada 8 segundos...
+Se libera una tonelada de tóxicos a la tierra cada 3 segundos...
+
+Estos datos, y otros más, controlan la dinámica de una pieza sonora autónoma, un foco de incendio activo que evoca la desesperación de nuestro planeta pidiendo a gritos compasión y responsabilidad por las generaciones futuras. 
+
+Los hábitos de producción y consumo en el mundo esta definidos por las acciones que impulsó la sociedad moderna cuando fue en busca de desarrollo y tecnología. Sin embargo, la inconsciencia de la humanidad con respecto al uso de sus recursos es lo que hoy produce este fuego voraz. Será así entonces como nuestra huella de carbono decidirá cuál será su poder de destrucción.
+
+El fuego esta conformado por audios que fueron grabados mediante la manipulación de distintos residuos plásticos reciclados durante el aislamiento por el COVID-19. El sistema de control autónomo fue programado en Python y Pure Data utilizando datasets de acceso público sobre contaminación ambiental.
+
+La obra fue realizada de forma conjunta entre:
+Franco Castagnino 		@tres.uno.tres
+Mariano Ferreras 		@flariut
+Lucas Sosa 			@lucasoxx_
+Lucas Sanchez Bustamante	@lvcprodu
+
+
+¿Te interesa saber más? (insert response)
+
+Actualmente, con una simple búsqueda en internet, encontramos que el 70% del consumo mundial de agua se utiliza para agricultura, el 20% para la industria y el 10% para consumo humano. En Argentina, las plantaciones de soja son las que impulsan la quema de reservas y zonas naturales; y si seguimos esta cadena, el 80% de la producción de soja se utiliza para alimentar la producción de carne animal (Feedlot).
+
+¿En que momento decidimos confiar a ciegas en las empresas y personas responsables de esta cadena de producción/destrucción que fagocita la vitalidad de nuestro planeta? ¿Existe otro camino?
+
+Y por otro lado... ¿Que hacemos nosotros por el micro-ecosistema que habitamos cotidianamente?
+
+“Los ecologistas y otros irresponsables proponen que por un día, en el día de hoy, los automóviles desaparezcan del mundo. ¿Un día sin autos? ¿Y si el ejemplo se contagia y ese día pasa a ser todos los días? Dios no lo quiera, y el Diablo tampoco. Los hospitales y los cementerios perderían su más numerosa clientela. Las calles se llenarían de ridículos ciclistas y patéticos peatones. Los pulmones ya no podrían respirar el más sabroso de los venenos. Las piernas, que se han olvidado de caminar, tropezarían con cualquier piedrita. El silencio aturdiría los oídos. Las autopistas serían deprimentes desiertos. Las radios, las televisiones, las revistas y los periódicos perderían a sus más generosos anunciantes. Los países petroleros quedarían condenados a la miseria. El maíz y la caña de azúcar, ahora convertidos en comida de autos, regresarían al humilde plato humano.” EDUARDO GALEANO
+
+No existe un planeta B, es hora de abrir los ojos.
+
+Para más información:
+(Para esta parte estoy averiguando fuentes de información confiables sobre la temática)
