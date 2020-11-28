@@ -25,4 +25,9 @@ function playAudio() {
     leerTxt();
     // document.body.style.minHeight = "150vh";
     document.body.style.paddingBottom = "50vh";
+    video.removeEventListener("click", playAudio);
+    video.title = "";
+    video.style.cursor = "default";
 }
+
+video.addEventListener("click", playAudio);
