@@ -1,0 +1,31 @@
+Se pierde una hectárea de bosque natural en el mundo cada 4 segundos...
+Se emiten mil toneladas de CO2 por segundo...
+Se producen cien mil botellas de plástico cada 6 segundos...
+Se consumen mil millones de litros de agua cada 8 segundos...
+Se libera una tonelada de tóxicos a la tierra cada 3 segundos...
+
+Estos datos, y otros más, controlan la dinámica de esta pieza sonora autónoma. 
+
+Un foco de incendio activo que evoca la desesperación de nuestro planeta pidiendo a gritos compasión y responsabilidad por las generaciones futuras. 
+
+Los hábitos de producción y consumo en el mundo están definidos por las acciones que impulsó la sociedad moderna cuando fue en busca de desarrollo y tecnología. 
+
+Sin embargo, la inconsciencia de la humanidad con respecto al uso de sus recursos es lo que hoy produce este fuego voraz. 
+
+Será así entonces como nuestra huella de carbono decidirá cuál será su poder de destrucción...
+
+El fuego está conformado por samples que fueron grabados mediante la manipulación de residuos plásticos reciclados durante el aislamiento por el COVID-19. 
+
+El sistema de control autónomo fue programado en Python y Pure Data utilizando datasets de acceso público sobre contaminación ambiental, consumo de energías, uso del agua y consumo de carne, entre otros.
+
+La obra fue realizada por estudiantes de la Lic. en Artes Electrónicas de la UNTREF:
+Franco Castagnino
+@tres.uno.tres
+Mariano Ferreras
+@flariut
+Lucas Sosa
+@lucasoxx_
+Lucas Sanchez Bustamante
+@lvcprodu
+
+¡No existe un planeta B!
