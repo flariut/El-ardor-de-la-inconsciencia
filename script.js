@@ -11,8 +11,12 @@ audio.onloadedmetadata = function () {
 };
 
 video.onended = function() {
-    video.src = "media/2.mp4";
-    video.loop = true;
+    if(!video.loop) {
+        video.src = "media/2.mp4";
+        video.loop = true;
+        video.style.cursor = "pointer";
+        video.addEventListener("click", playAudio);
+    }
 };
 
 async function leerTxt() {
@@ -38,5 +42,3 @@ function playAudio() {
     video.removeEventListener("click", playAudio);
     video.style.cursor = "default";
 }
-
-video.addEventListener("click", playAudio);
