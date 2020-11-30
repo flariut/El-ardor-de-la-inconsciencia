@@ -36,7 +36,6 @@ function playAudio() {
     leerTxt();
     document.body.style.paddingBottom = "50vh";
     video.removeEventListener("click", playAudio);
-    video.title = "";
     video.style.cursor = "default";
 }
 
