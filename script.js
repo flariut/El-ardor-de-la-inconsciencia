@@ -37,8 +37,8 @@ function playAudio() {
     audio.currentTime = Math.round(Math.random() * dur);
     audio.play();
     video.src = "media/3.mp4";
-    leerTxt();
-    document.body.style.paddingBottom = "50vh";
+    //leerTxt();
+    //document.body.style.paddingBottom = "50vh";
     video.removeEventListener("click", playAudio);
     video.style.cursor = "default";
 }
